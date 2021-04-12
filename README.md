@@ -18,3 +18,8 @@
 ![output3](https://user-images.githubusercontent.com/56245966/114365071-46d15d80-9ba4-11eb-98b7-45a9b7bddbed.png)
 # cara membuat list box option
 # input
+![input3](https://user-images.githubusercontent.com/56245966/114368887-0b389280-9ba8-11eb-871b-634c81c9e1b8.png)
+# output
+![output4](https://user-images.githubusercontent.com/56245966/114369025-2d321500-9ba8-11eb-8ab5-e89fcfc01e66.png)
+![output5](https://user-images.githubusercontent.com/56245966/114369116-433fd580-9ba8-11eb-9a98-f687e8bee586.png)
+![output6](https://user-images.githubusercontent.com/56245966/114369491-a5003f80-9ba8-11eb-8553-a078b861a436.png)
